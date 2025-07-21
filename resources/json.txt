@@ -1,0 +1,624 @@
+/*O_o*/
+google.search.cse.api19417({
+  "cursor": {
+    "currentPageIndex": 0,
+    "estimatedResultCount": "5460",
+    "moreResultsUrl": "http://www.google.com/cse?oe=utf8&ie=utf8&source=uds&q=%E7%99%BE%E6%97%B6%E7%BE%8E%E6%96%BD%E8%B4%B5%E5%AE%9D&safe=off&sort=&cx=000470283453218169915:hcrzdwsiwrc&start=0",
+    "resultCount": "5,460",
+    "searchResultTime": "0.48",
+    "pages": [
+      {
+        "label": 1,
+        "start": "0"
+      },
+      {
+        "label": 2,
+        "start": "10"
+      },
+      {
+        "label": 3,
+        "start": "20"
+      },
+      {
+        "label": 4,
+        "start": "30"
+      },
+      {
+        "label": 5,
+        "start": "40"
+      },
+      {
+        "label": 6,
+        "start": "50"
+      },
+      {
+        "label": 7,
+        "start": "60"
+      },
+      {
+        "label": 8,
+        "start": "70"
+      },
+      {
+        "label": 9,
+        "start": "80"
+      },
+      {
+        "label": 10,
+        "start": "90"
+      }
+    ]
+  },
+  "context": {
+    "title": "员工搜索",
+    "total_results": "0"
+  },
+  "results": [
+    {
+      "clicktrackUrl": "https://www.google.com/url?client=internal-element-cse&cx=000470283453218169915:hcrzdwsiwrc&q=https://www.linkedin.com/pub/%25E6%25B7%2591%25E5%2588%259A-%25E8%2591%25A3/b2/b91/855%3Ftrk%3Dpub-pbmap&sa=U&ved=2ahUKEwiy5Z2m-cyOAxVk2jQHHfnzAZgQFnoECAEQAQ&usg=AOvVaw3M6H7n5_ZVLno_44JHKus9&fexp=72986053,72986052",
+      "content": "\u003cb\u003e百时美施贵宝\u003c/b\u003e— 执行代表· Experience: \u003cb\u003e百时美施贵宝\u003c/b\u003e· Education: 中国药科大学· Location: Suzhou · 18 connections on LinkedIn. View 董淑刚&#39;s profile on LinkedIn,&nbsp;...",
+      "contentNoFormatting": "百时美施贵宝— 执行代表· Experience: 百时美施贵宝· Education: 中国药科大学· Location: Suzhou · 18 connections on LinkedIn. View 董淑刚's profile on LinkedIn, ...",
+      "title": "董淑刚- 执行代表- \u003cb\u003e百时美施贵宝\u003c/b\u003e| LinkedIn",
+      "titleNoFormatting": "董淑刚- 执行代表- 百时美施贵宝| LinkedIn",
+      "formattedUrl": "https://www.linkedin.com/pub/淑刚-董/b2/b91/855?trk=pub-pbmap",
+      "unescapedUrl": "https://www.linkedin.com/pub/%E6%B7%91%E5%88%9A-%E8%91%A3/b2/b91/855?trk=pub-pbmap",
+      "url": "https://www.linkedin.com/pub/%25E6%25B7%2591%25E5%2588%259A-%25E8%2591%25A3/b2/b91/855%3Ftrk%3Dpub-pbmap",
+      "visibleUrl": "www.linkedin.com",
+      "richSnippet": {
+        "cseImage": {
+          "src": "https://static.licdn.com/aero-v1/sc/h/1c5u578iilxfi4m4dvc4q810q"
+        },
+        "person": {},
+        "metatags": {
+          "twitterTitle": "董淑刚 - 执行代表 - 百时美施贵宝 | LinkedIn",
+          "ogTitle": "董淑刚 - 执行代表 - 百时美施贵宝 | LinkedIn",
+          "alAndroidPackage": "com.linkedin.android",
+          "bingbot": "nocache",
+          "locale": "en_US",
+          "platform": "https://static.licdn.com/aero-v1/sc/h/3nokri00jcx83yrv0hkd3y3wq",
+          "ogType": "profile",
+          "platformWorker": "https://static.licdn.com/aero-v1/sc/h/7nirg34a8ey4y2l4rw7xgwxx4",
+          "twitterCard": "summary",
+          "litmsprofilename": "public-profile-frontend",
+          "alAndroidAppName": "LinkedIn",
+          "twitterSite": "@Linkedin",
+          "twitterImage": "https://static.licdn.com/aero-v1/sc/h/1c5u578iilxfi4m4dvc4q810q",
+          "profileFirstName": "淑刚",
+          "pagekey": "public_profile_v3_mobile",
+          "linkedinPagetag": "openToProvider",
+          "alIosAppStoreId": "288429040",
+          "ogDescription": "百时美施贵宝 — 执行代表 · Experience: 百时美施贵宝 · Education: 中国药科大学 · Location: Suzhou · 18 connections on LinkedIn. View 董淑刚’s profile on LinkedIn, a professional community of 1 billion members.",
+          "ogImage": "https://static.licdn.com/aero-v1/sc/h/1c5u578iilxfi4m4dvc4q810q",
+          "viewport": "width=device-width, initial-scale=1.0",
+          "twitterDescription": "百时美施贵宝 — 执行代表 · Experience: 百时美施贵宝 · Education: 中国药科大学 · Location: Suzhou · 18 connections on LinkedIn. View 董淑刚’s profile on LinkedIn, a professional community of 1 billion members.",
+          "profileLastName": "董",
+          "alIosAppName": "LinkedIn",
+          "ubba": "https://static.licdn.com/aero-v1/sc/h/e5xptkbtrj1luhdw1raygpg8i",
+          "alIosUrl": "https://cn.linkedin.com/in/%E6%B7%91%E5%88%9A-%E8%91%A3-855b91b2",
+          "ogUrl": "https://cn.linkedin.com/in/%E6%B7%91%E5%88%9A-%E8%91%A3-855b91b2",
+          "alAndroidUrl": "https://cn.linkedin.com/in/%E6%B7%91%E5%88%9A-%E8%91%A3-855b91b2"
+        },
+        "cseThumbnail": {
+          "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpEnMCOR-ytx0ZXHO2rgJlezc4CfXm5iHZMEjL8fSfOciDiTG4CU0Uc8QO&s",
+          "width": "225",
+          "height": "225"
+        }
+      },
+      "breadcrumbUrl": {
+        "host": "www.linkedin.com",
+        "crumbs": [
+          "pub",
+          "淑刚-董"
+        ]
+      }
+    },
+    {
+      "clicktrackUrl": "https://www.google.com/url?client=internal-element-cse&cx=000470283453218169915:hcrzdwsiwrc&q=https://www.linkedin.com/in/yancampbell&sa=U&ved=2ahUKEwiy5Z2m-cyOAxVk2jQHHfnzAZgQFnoECAoQAQ&usg=AOvVaw2tQQgj7EPfwsrYyJMexURK&fexp=72986053,72986052",
+      "content": "Innovative professional with expertise in enabling corporate and R&amp;D objectives by… · Experience: \u003cb\u003e百时美施贵宝\u003c/b\u003e · Education: Oregon State University&nbsp;...",
+      "contentNoFormatting": "Innovative professional with expertise in enabling corporate and R&D objectives by… · Experience: 百时美施贵宝 · Education: Oregon State University ...",
+      "title": "Yan Campbell, Ph.D, MBA, PMP® - \u003cb\u003e百时美施贵宝\u003c/b\u003e | LinkedIn",
+      "titleNoFormatting": "Yan Campbell, Ph.D, MBA, PMP® - 百时美施贵宝 | LinkedIn",
+      "formattedUrl": "https://www.linkedin.com/in/yancampbell",
+      "unescapedUrl": "https://www.linkedin.com/in/yancampbell",
+      "url": "https://www.linkedin.com/in/yancampbell",
+      "visibleUrl": "www.linkedin.com",
+      "richSnippet": {
+        "cseImage": {
+          "src": "https://static.licdn.com/aero-v1/sc/h/1c5u578iilxfi4m4dvc4q810q"
+        },
+        "metatags": {
+          "twitterTitle": "Yan Campbell, Ph.D, MBA, PMP® - 百时美施贵宝 | LinkedIn",
+          "ogTitle": "Yan Campbell, Ph.D, MBA, PMP® - 百时美施贵宝 | LinkedIn",
+          "alAndroidPackage": "com.linkedin.android",
+          "bingbot": "nocache",
+          "locale": "en_US",
+          "platform": "https://static.licdn.com/aero-v1/sc/h/50rhhil0lpchs3iqo4twn4tk9",
+          "ogType": "profile",
+          "platformWorker": "https://static.licdn.com/aero-v1/sc/h/7nirg34a8ey4y2l4rw7xgwxx4",
+          "twitterCard": "summary",
+          "litmsprofilename": "public-profile-frontend",
+          "alAndroidAppName": "LinkedIn",
+          "twitterSite": "@Linkedin",
+          "twitterImage": "https://static.licdn.com/aero-v1/sc/h/1c5u578iilxfi4m4dvc4q810q",
+          "profileFirstName": "Yan",
+          "pagekey": "public_profile_v3_mobile",
+          "linkedinPagetag": "openToProvider",
+          "alIosAppStoreId": "288429040",
+          "ogDescription": "Innovative professional with expertise in enabling corporate and R&amp;D objectives by… · Experience: 百时美施贵宝 · Education: Oregon State University · Location: New York City Metropolitan Area · 267 connections on LinkedIn. View Yan Campbell, Ph.D, MBA, PMP®’s profile on LinkedIn, a professional community of 1 billion members.",
+          "ogImage": "https://static.licdn.com/aero-v1/sc/h/1c5u578iilxfi4m4dvc4q810q",
+          "viewport": "width=device-width, initial-scale=1.0",
+          "twitterDescription": "Innovative professional with expertise in enabling corporate and R&amp;D objectives by… · Experience: 百时美施贵宝 · Education: Oregon State University · Location: New York City Metropolitan Area · 267 connections on LinkedIn. View Yan Campbell, Ph.D, MBA, PMP®’s profile on LinkedIn, a professional community of 1 billion members.",
+          "profileLastName": "Campbell, Ph.D, MBA, PMP®",
+          "alIosAppName": "LinkedIn",
+          "ubba": "https://static.licdn.com/aero-v1/sc/h/41b802ccd3dg7q90ypctzxybx",
+          "alIosUrl": "https://www.linkedin.com/in/yancampbell",
+          "ogUrl": "https://www.linkedin.com/in/yancampbell",
+          "alAndroidUrl": "https://www.linkedin.com/in/yancampbell"
+        },
+        "profilepage": {},
+        "cseThumbnail": {
+          "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpEnMCOR-ytx0ZXHO2rgJlezc4CfXm5iHZMEjL8fSfOciDiTG4CU0Uc8QO&s",
+          "width": "225",
+          "height": "225"
+        }
+      },
+      "breadcrumbUrl": {
+        "host": "www.linkedin.com",
+        "crumbs": [
+          "yancampbell"
+        ]
+      }
+    },
+    {
+      "clicktrackUrl": "https://www.google.com/url?client=internal-element-cse&cx=000470283453218169915:hcrzdwsiwrc&q=https://www.linkedin.com/pub/%25E7%258E%25B2-%25E5%25A7%259A/a9/840/932&sa=U&ved=2ahUKEwiy5Z2m-cyOAxVk2jQHHfnzAZgQFnoECAIQAQ&usg=AOvVaw0OACefNC6JY6_MNcmVzyzP&fexp=72986053,72986052",
+      "content": "\u003cb\u003e百时美施贵宝\u003c/b\u003e- 高级医药代表· Experience: 百时美施贵· Education: 安徽财经大学· Location: Bengbu · 8 connections on LinkedIn. View 姚玲&#39;s profile on LinkedIn,&nbsp;...",
+      "contentNoFormatting": "百时美施贵宝- 高级医药代表· Experience: 百时美施贵· Education: 安徽财经大学· Location: Bengbu · 8 connections on LinkedIn. View 姚玲's profile on LinkedIn, ...",
+      "title": "姚玲- \u003cb\u003e百时美施贵宝\u003c/b\u003e- 高级医药代表",
+      "titleNoFormatting": "姚玲- 百时美施贵宝- 高级医药代表",
+      "formattedUrl": "https://www.linkedin.com/pub/玲-姚/a9/840/932",
+      "unescapedUrl": "https://www.linkedin.com/pub/%E7%8E%B2-%E5%A7%9A/a9/840/932",
+      "url": "https://www.linkedin.com/pub/%25E7%258E%25B2-%25E5%25A7%259A/a9/840/932",
+      "visibleUrl": "www.linkedin.com",
+      "richSnippet": {
+        "cseImage": {
+          "src": "https://static.licdn.com/aero-v1/sc/h/1c5u578iilxfi4m4dvc4q810q"
+        },
+        "person": {},
+        "metatags": {
+          "twitterTitle": "姚玲 - 高级医药代表 - 百时美施贵 | LinkedIn",
+          "ogTitle": "姚玲 - 高级医药代表 - 百时美施贵 | LinkedIn",
+          "alAndroidPackage": "com.linkedin.android",
+          "bingbot": "nocache",
+          "locale": "en_US",
+          "platform": "https://static.licdn.com/aero-v1/sc/h/3nokri00jcx83yrv0hkd3y3wq",
+          "ogType": "profile",
+          "platformWorker": "https://static.licdn.com/aero-v1/sc/h/7nirg34a8ey4y2l4rw7xgwxx4",
+          "twitterCard": "summary",
+          "litmsprofilename": "public-profile-frontend",
+          "alAndroidAppName": "LinkedIn",
+          "twitterSite": "@Linkedin",
+          "twitterImage": "https://static.licdn.com/aero-v1/sc/h/1c5u578iilxfi4m4dvc4q810q",
+          "profileFirstName": "玲",
+          "pagekey": "public_profile_v3_mobile",
+          "linkedinPagetag": "openToProvider",
+          "alIosAppStoreId": "288429040",
+          "ogDescription": "百时美施贵宝 - 高级医药代表 · Experience: 百时美施贵 · Education: 安徽财经大学 · Location: Bengbu · 8 connections on LinkedIn. View 姚玲’s profile on LinkedIn, a professional community of 1 billion members.",
+          "ogImage": "https://static.licdn.com/aero-v1/sc/h/1c5u578iilxfi4m4dvc4q810q",
+          "viewport": "width=device-width, initial-scale=1.0",
+          "twitterDescription": "百时美施贵宝 - 高级医药代表 · Experience: 百时美施贵 · Education: 安徽财经大学 · Location: Bengbu · 8 connections on LinkedIn. View 姚玲’s profile on LinkedIn, a professional community of 1 billion members.",
+          "profileLastName": "姚",
+          "alIosAppName": "LinkedIn",
+          "ubba": "https://static.licdn.com/aero-v1/sc/h/e5xptkbtrj1luhdw1raygpg8i",
+          "alIosUrl": "https://cn.linkedin.com/in/%E7%8E%B2-%E5%A7%9A-932840a9",
+          "ogUrl": "https://cn.linkedin.com/in/%E7%8E%B2-%E5%A7%9A-932840a9",
+          "alAndroidUrl": "https://cn.linkedin.com/in/%E7%8E%B2-%E5%A7%9A-932840a9"
+        },
+        "cseThumbnail": {
+          "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpEnMCOR-ytx0ZXHO2rgJlezc4CfXm5iHZMEjL8fSfOciDiTG4CU0Uc8QO&s",
+          "width": "225",
+          "height": "225"
+        }
+      },
+      "breadcrumbUrl": {
+        "host": "www.linkedin.com",
+        "crumbs": [
+          "pub",
+          "玲-姚"
+        ]
+      }
+    },
+    {
+      "clicktrackUrl": "https://www.google.com/url?client=internal-element-cse&cx=000470283453218169915:hcrzdwsiwrc&q=https://www.linkedin.com/in/%25E5%2595%25B8%25E5%25B3%25B0-%25E5%2588%2598-36315013a/en-us%3Ftrk%3Dpeople-guest_people_search-card&sa=U&ved=2ahUKEwiy5Z2m-cyOAxVk2jQHHfnzAZgQFnoECAcQAQ&usg=AOvVaw3KFE-GmWxnq_0ePmRXQ4fK&fexp=72986053,72986052",
+      "content": "\u003cb\u003e百时美施贵宝\u003c/b\u003e- 地区销售经理· 工作经历: \u003cb\u003e百时美施贵宝\u003c/b\u003e· 教育经历: 南京中医药大学· 地点: 扬州· 19 位领英好友。在领英(一个拥有10 亿会员的职业社区) 查看刘啸峰的&nbsp;...",
+      "contentNoFormatting": "百时美施贵宝- 地区销售经理· 工作经历: 百时美施贵宝· 教育经历: 南京中医药大学· 地点: 扬州· 19 位领英好友。在领英(一个拥有10 亿会员的职业社区) 查看刘啸峰的 ...",
+      "title": "刘啸峰- 地区销售经理- \u003cb\u003e百时美施贵宝\u003c/b\u003e| 领英",
+      "titleNoFormatting": "刘啸峰- 地区销售经理- 百时美施贵宝| 领英",
+      "formattedUrl": "https://www.linkedin.com/in/啸峰-刘-36315013a/en-us?trk=people...",
+      "unescapedUrl": "https://www.linkedin.com/in/%E5%95%B8%E5%B3%B0-%E5%88%98-36315013a/en-us?trk=people-guest_people_search-card",
+      "url": "https://www.linkedin.com/in/%25E5%2595%25B8%25E5%25B3%25B0-%25E5%2588%2598-36315013a/en-us%3Ftrk%3Dpeople-guest_people_search-card",
+      "visibleUrl": "www.linkedin.com",
+      "richSnippet": {
+        "cseImage": {
+          "src": "https://media.licdn.com/dms/image/v2/C4D03AQFogSyASPlxCw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1517585705741?e=2147483647&v=beta&t=NLfCDr1utDA9kuKKt7Dv1pco2ZHlwXUIS-HJofKIrj8"
+        },
+        "metatags": {
+          "twitterTitle": "刘啸峰 - 地区销售经理 - 百时美施贵宝 | 领英",
+          "ogTitle": "刘啸峰 - 地区销售经理 - 百时美施贵宝 | 领英",
+          "alAndroidPackage": "com.linkedin.android",
+          "bingbot": "nocache",
+          "locale": "zh_CN",
+          "platform": "https://static.licdn.com/aero-v1/sc/h/50rhhil0lpchs3iqo4twn4tk9",
+          "ogType": "profile",
+          "platformWorker": "https://static.licdn.com/aero-v1/sc/h/7nirg34a8ey4y2l4rw7xgwxx4",
+          "twitterCard": "summary",
+          "litmsprofilename": "public-profile-frontend",
+          "alAndroidAppName": "LinkedIn",
+          "twitterSite": "@Linkedin",
+          "twitterImage": "https://media.licdn.com/dms/image/v2/C4D03AQFogSyASPlxCw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1517585705741?e=2147483647&v=beta&t=NLfCDr1utDA9kuKKt7Dv1pco2ZHlwXUIS-HJofKIrj8",
+          "profileFirstName": "啸峰",
+          "pagekey": "public_profile_v3_mobile",
+          "linkedinPagetag": "openToProvider",
+          "alIosAppStoreId": "288429040",
+          "ogDescription": "百时美施贵宝 - 地区销售经理 · 工作经历: 百时美施贵宝 · 教育经历: 南京中医药大学 · 地点: 扬州 · 19 位领英好友。在领英 (一个拥有 10 亿会员的职业社区) 查看刘啸峰的职业档案。",
+          "ogImage": "https://media.licdn.com/dms/image/v2/C4D03AQFogSyASPlxCw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1517585705741?e=2147483647&v=beta&t=NLfCDr1utDA9kuKKt7Dv1pco2ZHlwXUIS-HJofKIrj8",
+          "viewport": "width=device-width, initial-scale=1.0",
+          "twitterDescription": "百时美施贵宝 - 地区销售经理 · 工作经历: 百时美施贵宝 · 教育经历: 南京中医药大学 · 地点: 扬州 · 19 位领英好友。在领英 (一个拥有 10 亿会员的职业社区) 查看刘啸峰的职业档案。",
+          "profileLastName": "刘",
+          "alIosAppName": "LinkedIn",
+          "ubba": "https://static.licdn.com/aero-v1/sc/h/41b802ccd3dg7q90ypctzxybx",
+          "alIosUrl": "https://cn.linkedin.com/in/%E5%95%B8%E5%B3%B0-%E5%88%98-36315013a",
+          "ogUrl": "https://cn.linkedin.com/in/%E5%95%B8%E5%B3%B0-%E5%88%98-36315013a",
+          "alAndroidUrl": "https://cn.linkedin.com/in/%E5%95%B8%E5%B3%B0-%E5%88%98-36315013a"
+        },
+        "profilepage": {},
+        "cseThumbnail": {
+          "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkY0LKtWoPq6woP4So7Wfw9RUqJ1xoAODYiPu42ZVNylB5ExunJNYUVuV2&s",
+          "width": "200",
+          "height": "200"
+        }
+      },
+      "breadcrumbUrl": {
+        "host": "www.linkedin.com",
+        "crumbs": [
+          "啸峰-刘-36315013a",
+          "en-us"
+        ]
+      }
+    },
+    {
+      "clicktrackUrl": "https://www.google.com/url?client=internal-element-cse&cx=000470283453218169915:hcrzdwsiwrc&q=https://www.linkedin.com/in/jiaqi-hu-1b865980&sa=U&ved=2ahUKEwiy5Z2m-cyOAxVk2jQHHfnzAZgQFnoECAQQAQ&usg=AOvVaw3zy-31xMjgggkKRZt_0Q62&fexp=72986053,72986052",
+      "content": "Manager, Statistical Programming · Principal statistical programmer with expertise in SAS and Oncology trials； Fluent English in both social and working&nbsp;...",
+      "contentNoFormatting": "Manager, Statistical Programming · Principal statistical programmer with expertise in SAS and Oncology trials； Fluent English in both social and working ...",
+      "title": "Jiaqi Hu - Manager, Statistical Programming - \u003cb\u003e百时美施贵宝\u003c/b\u003e | LinkedIn",
+      "titleNoFormatting": "Jiaqi Hu - Manager, Statistical Programming - 百时美施贵宝 | LinkedIn",
+      "formattedUrl": "https://www.linkedin.com/in/jiaqi-hu-1b865980",
+      "unescapedUrl": "https://www.linkedin.com/in/jiaqi-hu-1b865980",
+      "url": "https://www.linkedin.com/in/jiaqi-hu-1b865980",
+      "visibleUrl": "www.linkedin.com",
+      "richSnippet": {
+        "cseImage": {
+          "src": "https://media.licdn.com/dms/image/v2/D4D03AQHKWA1YswpafA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1683097982358?e=2147483647&v=beta&t=APS4woBbomVy7N1nnsrTYz80Si87Oe7JtQvrFDNPqxw"
+        },
+        "person": {},
+        "metatags": {
+          "twitterTitle": "Jiaqi Hu - Manager, Statistical Programming - 百时美施贵宝 | LinkedIn",
+          "ogTitle": "Jiaqi Hu - Manager, Statistical Programming - 百时美施贵宝 | LinkedIn",
+          "alAndroidPackage": "com.linkedin.android",
+          "bingbot": "nocache",
+          "locale": "en_US",
+          "platform": "https://static.licdn.com/aero-v1/sc/h/50rhhil0lpchs3iqo4twn4tk9",
+          "ogType": "profile",
+          "platformWorker": "https://static.licdn.com/aero-v1/sc/h/7nirg34a8ey4y2l4rw7xgwxx4",
+          "twitterCard": "summary",
+          "litmsprofilename": "public-profile-frontend",
+          "alAndroidAppName": "LinkedIn",
+          "twitterSite": "@Linkedin",
+          "twitterImage": "https://media.licdn.com/dms/image/v2/D4D03AQHKWA1YswpafA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1683097982358?e=2147483647&v=beta&t=APS4woBbomVy7N1nnsrTYz80Si87Oe7JtQvrFDNPqxw",
+          "profileFirstName": "Jiaqi",
+          "pagekey": "public_profile_v3_mobile",
+          "linkedinPagetag": "openToProvider",
+          "alIosAppStoreId": "288429040",
+          "ogDescription": "Manager, Statistical Programming · Principal statistical programmer with expertise in SAS and Oncology trials；\nFluent English in both social and working environment; \nLead PhaseI/II/III Solid Tumor programs;  \nResource Planning for deliverables; \nCDISC standards, ICH guidelines,  SDTM，ADaM；\nSAS, SAS GTL, SPSS, Stata, R ; · Experience: 百时美施贵宝 · Education: University of Southern California · Location: Greater Boston · 426 connections on LinkedIn. View Jiaqi Hu’s profile on LinkedIn, a professional community of 1 billion members.",
+          "ogImage": "https://media.licdn.com/dms/image/v2/D4D03AQHKWA1YswpafA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1683097982358?e=2147483647&v=beta&t=APS4woBbomVy7N1nnsrTYz80Si87Oe7JtQvrFDNPqxw",
+          "viewport": "width=device-width, initial-scale=1.0",
+          "twitterDescription": "Manager, Statistical Programming · Principal statistical programmer with expertise in SAS and Oncology trials；\nFluent English in both social and working environment; \nLead PhaseI/II/III Solid Tumor programs;  \nResource Planning for deliverables; \nCDISC standards, ICH guidelines,  SDTM，ADaM；\nSAS, SAS GTL, SPSS, Stata, R ; · Experience: 百时美施贵宝 · Education: University of Southern California · Location: Greater Boston · 426 connections on LinkedIn. View Jiaqi Hu’s profile on LinkedIn, a professional community of 1 billion members.",
+          "profileLastName": "Hu",
+          "alIosAppName": "LinkedIn",
+          "ubba": "https://static.licdn.com/aero-v1/sc/h/41b802ccd3dg7q90ypctzxybx",
+          "alIosUrl": "https://www.linkedin.com/in/jiaqi-hu-1b865980",
+          "ogUrl": "https://www.linkedin.com/in/jiaqi-hu-1b865980",
+          "alAndroidUrl": "https://www.linkedin.com/in/jiaqi-hu-1b865980"
+        },
+        "cseThumbnail": {
+          "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTwG6fBc5idmsxcyjY-42r1jbK5XSpigv0Cubi52Jr8vlQEsSG31WpHNtz&s",
+          "width": "200",
+          "height": "200"
+        }
+      },
+      "breadcrumbUrl": {
+        "host": "www.linkedin.com",
+        "crumbs": [
+          "..."
+        ]
+      }
+    },
+    {
+      "clicktrackUrl": "https://www.google.com/url?client=internal-element-cse&cx=000470283453218169915:hcrzdwsiwrc&q=https://www.linkedin.com/in/%2525E5%2525AA%25259B-%2525E6%25259D%25258E-33a729a3&sa=U&ved=2ahUKEwiy5Z2m-cyOAxVk2jQHHfnzAZgQFnoECAkQAQ&usg=AOvVaw0UfvaVxxlgBPG1qrGwRYnA&fexp=72986053,72986052",
+      "content": "\u003cb\u003e百时美施贵宝\u003c/b\u003e- DM · 2012.8加入BMS，医药行业8年以上工作经历· Experience: \u003cb\u003e百时美施贵宝\u003c/b\u003e· Education: 郑州大学· Location: Fuzhou · 445 connections on LinkedIn.",
+      "contentNoFormatting": "百时美施贵宝- DM · 2012.8加入BMS，医药行业8年以上工作经历· Experience: 百时美施贵宝· Education: 郑州大学· Location: Fuzhou · 445 connections on LinkedIn.",
+      "title": "李媛- DM - \u003cb\u003e百时美施贵宝\u003c/b\u003e| LinkedIn",
+      "titleNoFormatting": "李媛- DM - 百时美施贵宝| LinkedIn",
+      "formattedUrl": "https://www.linkedin.com/.../%25E5%25AA%259B-%25E6%259D%258E-...",
+      "unescapedUrl": "https://www.linkedin.com/in/%25E5%25AA%259B-%25E6%259D%258E-33a729a3",
+      "url": "https://www.linkedin.com/in/%2525E5%2525AA%25259B-%2525E6%25259D%25258E-33a729a3",
+      "visibleUrl": "www.linkedin.com",
+      "richSnippet": {
+        "cseImage": {
+          "src": "https://static.licdn.com/aero-v1/sc/h/1c5u578iilxfi4m4dvc4q810q"
+        },
+        "person": {},
+        "metatags": {
+          "twitterTitle": "李媛 - DM - 百时美施贵宝 | LinkedIn",
+          "ogTitle": "李媛 - DM - 百时美施贵宝 | LinkedIn",
+          "alAndroidPackage": "com.linkedin.android",
+          "bingbot": "nocache",
+          "locale": "en_US",
+          "platform": "https://static.licdn.com/aero-v1/sc/h/3nokri00jcx83yrv0hkd3y3wq",
+          "ogType": "profile",
+          "platformWorker": "https://static.licdn.com/aero-v1/sc/h/7nirg34a8ey4y2l4rw7xgwxx4",
+          "twitterCard": "summary",
+          "litmsprofilename": "public-profile-frontend",
+          "alAndroidAppName": "LinkedIn",
+          "twitterSite": "@Linkedin",
+          "twitterImage": "https://static.licdn.com/aero-v1/sc/h/1c5u578iilxfi4m4dvc4q810q",
+          "profileFirstName": "媛",
+          "pagekey": "public_profile_v3_mobile",
+          "linkedinPagetag": "openToProvider",
+          "alIosAppStoreId": "288429040",
+          "ogDescription": "百时美施贵宝 - DM · 2012.8加入BMS，医药行业8年以上工作经历 · Experience: 百时美施贵宝 · Education: 郑州大学 · Location: Fuzhou · 445 connections on LinkedIn. View 李媛’s profile on LinkedIn, a professional community of 1 billion members.",
+          "ogImage": "https://static.licdn.com/aero-v1/sc/h/1c5u578iilxfi4m4dvc4q810q",
+          "viewport": "width=device-width, initial-scale=1.0",
+          "twitterDescription": "百时美施贵宝 - DM · 2012.8加入BMS，医药行业8年以上工作经历 · Experience: 百时美施贵宝 · Education: 郑州大学 · Location: Fuzhou · 445 connections on LinkedIn. View 李媛’s profile on LinkedIn, a professional community of 1 billion members.",
+          "profileLastName": "李",
+          "alIosAppName": "LinkedIn",
+          "ubba": "https://static.licdn.com/aero-v1/sc/h/e5xptkbtrj1luhdw1raygpg8i",
+          "alIosUrl": "https://cn.linkedin.com/in/%E5%AA%9B-%E6%9D%8E-33a729a3",
+          "ogUrl": "https://cn.linkedin.com/in/%E5%AA%9B-%E6%9D%8E-33a729a3",
+          "alAndroidUrl": "https://cn.linkedin.com/in/%E5%AA%9B-%E6%9D%8E-33a729a3"
+        },
+        "cseThumbnail": {
+          "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpEnMCOR-ytx0ZXHO2rgJlezc4CfXm5iHZMEjL8fSfOciDiTG4CU0Uc8QO&s",
+          "width": "225",
+          "height": "225"
+        }
+      },
+      "breadcrumbUrl": {
+        "host": "www.linkedin.com",
+        "crumbs": [
+          "..."
+        ]
+      }
+    },
+    {
+      "clicktrackUrl": "https://www.google.com/url?client=internal-element-cse&cx=000470283453218169915:hcrzdwsiwrc&q=https://www.linkedin.com/in/hanyu-hu-90441b186&sa=U&ved=2ahUKEwiy5Z2m-cyOAxVk2jQHHfnzAZgQFnoECAgQAQ&usg=AOvVaw2Xzz4Z5ctwR1o0F2cw-Egc&fexp=72986053,72986052",
+      "content": "Experience &middot; \u003cb\u003e百时美施贵宝\u003c/b\u003e Graphic. Manager, Statistical programming &middot; EDETEK, Inc., transforming data into assets Graphic. Statistical Programming Specialist.",
+      "contentNoFormatting": "Experience · 百时美施贵宝 Graphic. Manager, Statistical programming · EDETEK, Inc., transforming data into assets Graphic. Statistical Programming Specialist.",
+      "title": "Hanyu Hu - Manager, Statistical programming - \u003cb\u003e百时美施贵宝\u003c/b\u003e ...",
+      "titleNoFormatting": "Hanyu Hu - Manager, Statistical programming - 百时美施贵宝 ...",
+      "formattedUrl": "https://www.linkedin.com/in/hanyu-hu-90441b186",
+      "unescapedUrl": "https://www.linkedin.com/in/hanyu-hu-90441b186",
+      "url": "https://www.linkedin.com/in/hanyu-hu-90441b186",
+      "visibleUrl": "www.linkedin.com",
+      "richSnippet": {
+        "cseImage": {
+          "src": "https://media.licdn.com/dms/image/v2/C4E03AQHzhUbE6WRnmw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1557870844720?e=2147483647&v=beta&t=emoztufxcxkWKmESFO8vhrR3jpumNkj4lEZQ-0I6bGE"
+        },
+        "metatags": {
+          "twitterTitle": "Hanyu Hu - Manager, Statistical programming - 百时美施贵宝 | LinkedIn",
+          "ogTitle": "Hanyu Hu - Manager, Statistical programming - 百时美施贵宝 | LinkedIn",
+          "alAndroidPackage": "com.linkedin.android",
+          "bingbot": "nocache",
+          "locale": "en_US",
+          "platform": "https://static.licdn.com/aero-v1/sc/h/50rhhil0lpchs3iqo4twn4tk9",
+          "ogType": "profile",
+          "platformWorker": "https://static.licdn.com/aero-v1/sc/h/7nirg34a8ey4y2l4rw7xgwxx4",
+          "twitterCard": "summary",
+          "litmsprofilename": "public-profile-frontend",
+          "alAndroidAppName": "LinkedIn",
+          "twitterSite": "@Linkedin",
+          "twitterImage": "https://media.licdn.com/dms/image/v2/C4E03AQHzhUbE6WRnmw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1557870844720?e=2147483647&v=beta&t=emoztufxcxkWKmESFO8vhrR3jpumNkj4lEZQ-0I6bGE",
+          "profileFirstName": "Hanyu",
+          "pagekey": "public_profile_v3_mobile",
+          "linkedinPagetag": "openToProvider",
+          "alIosAppStoreId": "288429040",
+          "ogDescription": "Manager, Statistical programming at BMS · •\tOver 5 years experiences on reading CDISC, creating SDTM and ADaM datasets, and generating TLFs\n•\tFamiliar with trial design, SAP, SDTM/ADaM spec, pinnacle21 generating and editing\n•\tProficient in Base SAS, SAS/Stat, SAS/Graphs and SAS/Macros, SAS/ODS and SAS/SQL, know R and SPSS · Experience: 百时美施贵宝 · Education: Tulane University School of Public Health and Tropical Medicine · Location: New York City Metropolitan Area · 84 connections on LinkedIn. View Hanyu Hu’s profile on LinkedIn, a professional community of 1 billion members.",
+          "ogImage": "https://media.licdn.com/dms/image/v2/C4E03AQHzhUbE6WRnmw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1557870844720?e=2147483647&v=beta&t=emoztufxcxkWKmESFO8vhrR3jpumNkj4lEZQ-0I6bGE",
+          "viewport": "width=device-width, initial-scale=1.0",
+          "twitterDescription": "Manager, Statistical programming at BMS · •\tOver 5 years experiences on reading CDISC, creating SDTM and ADaM datasets, and generating TLFs\n•\tFamiliar with trial design, SAP, SDTM/ADaM spec, pinnacle21 generating and editing\n•\tProficient in Base SAS, SAS/Stat, SAS/Graphs and SAS/Macros, SAS/ODS and SAS/SQL, know R and SPSS · Experience: 百时美施贵宝 · Education: Tulane University School of Public Health and Tropical Medicine · Location: New York City Metropolitan Area · 84 connections on LinkedIn. View Hanyu Hu’s profile on LinkedIn, a professional community of 1 billion members.",
+          "profileLastName": "Hu",
+          "alIosAppName": "LinkedIn",
+          "ubba": "https://static.licdn.com/aero-v1/sc/h/41b802ccd3dg7q90ypctzxybx",
+          "alIosUrl": "https://www.linkedin.com/in/hanyu-hu-90441b186",
+          "ogUrl": "https://www.linkedin.com/in/hanyu-hu-90441b186",
+          "alAndroidUrl": "https://www.linkedin.com/in/hanyu-hu-90441b186"
+        },
+        "profilepage": {},
+        "cseThumbnail": {
+          "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRMwJ795y43Mj5UAMYEwrtqwiJCLsLtRbKW8jRrcEMK712Va2HvHfhGp8d&s",
+          "width": "200",
+          "height": "200"
+        }
+      },
+      "breadcrumbUrl": {
+        "host": "www.linkedin.com",
+        "crumbs": [
+          "..."
+        ]
+      }
+    },
+    {
+      "clicktrackUrl": "https://www.google.com/url?client=internal-element-cse&cx=000470283453218169915:hcrzdwsiwrc&q=https://www.linkedin.com/in/joe-chen-b83a2039&sa=U&ved=2ahUKEwiy5Z2m-cyOAxVk2jQHHfnzAZgQFnoECAMQAQ&usg=AOvVaw2HKDfeoPeMEqiPHxSOoi49&fexp=72986053,72986052",
+      "content": "\u003cb\u003e百时美施贵宝\u003c/b\u003e ... Lead global health economics and outcomes research (HEOR) for lisocabtagene maraleucel (liso-cel), a chimeric antigen receptor (CAR) T-cell&nbsp;...",
+      "contentNoFormatting": "百时美施贵宝 ... Lead global health economics and outcomes research (HEOR) for lisocabtagene maraleucel (liso-cel), a chimeric antigen receptor (CAR) T-cell ...",
+      "title": "Joe Chen - \u003cb\u003e百时美施贵宝\u003c/b\u003e",
+      "titleNoFormatting": "Joe Chen - 百时美施贵宝",
+      "formattedUrl": "https://www.linkedin.com/in/joe-chen-b83a2039",
+      "unescapedUrl": "https://www.linkedin.com/in/joe-chen-b83a2039",
+      "url": "https://www.linkedin.com/in/joe-chen-b83a2039",
+      "visibleUrl": "www.linkedin.com",
+      "richSnippet": {
+        "cseImage": {
+          "src": "https://media.licdn.com/dms/image/v2/D5603AQGdw9Bz6FgBnQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1701733716776?e=2147483647&v=beta&t=HSuBXOtKVurNWpZGJvUQF0JXY4xgpYZocILRLqE785U"
+        },
+        "metatags": {
+          "twitterTitle": "Joe Chen - Senior Director, Global HEOR, Hematology Lymphoma Team Lead - 百时美施贵宝 | LinkedIn",
+          "ogTitle": "Joe Chen - Senior Director, Global HEOR, Hematology Lymphoma Team Lead - 百时美施贵宝 | LinkedIn",
+          "alAndroidPackage": "com.linkedin.android",
+          "bingbot": "nocache",
+          "locale": "en_US",
+          "platform": "https://static.licdn.com/aero-v1/sc/h/50rhhil0lpchs3iqo4twn4tk9",
+          "ogType": "profile",
+          "platformWorker": "https://static.licdn.com/aero-v1/sc/h/7nirg34a8ey4y2l4rw7xgwxx4",
+          "twitterCard": "summary",
+          "litmsprofilename": "public-profile-frontend",
+          "alAndroidAppName": "LinkedIn",
+          "twitterSite": "@Linkedin",
+          "twitterImage": "https://media.licdn.com/dms/image/v2/D5603AQGdw9Bz6FgBnQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1701733716776?e=2147483647&v=beta&t=HSuBXOtKVurNWpZGJvUQF0JXY4xgpYZocILRLqE785U",
+          "profileFirstName": "Joe",
+          "pagekey": "public_profile_v3_mobile",
+          "linkedinPagetag": "openToProvider",
+          "alIosAppStoreId": "288429040",
+          "ogDescription": "Senior Director, Global HEOR, Lymphoma Team Lead at Bristol Myers Squibb · Biopharmaceutical leader with 15+ years of industry experience and solid track record in delivering results and making impacts to business. Significant background in oncology, hematology, immunology, and cell therapy with extensive experience in health economics and outcomes studies using broad spectrum of primary and secondary data sources. \n\nEntrepreneurial, creative, decisive with outstanding interpersonal, communication and writing skills. Excel in developing and executing value-add programs that challenge the status quo. Noted for passion and technical proficiency brought to all aspects of operations and strategic leadership. Fluent in English and Chinese (Mandarin).\n\nStrong and demonstrated expertise in: \n• Product development and life cycle management (ranging from early and late phase clinical trial)\n• Registry\n• Systematic literature review and meta-analysis\n• Comparative effectiveness analysis\n• Economic modeling\n ",
+          "ogImage": "https://media.licdn.com/dms/image/v2/D5603AQGdw9Bz6FgBnQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1701733716776?e=2147483647&v=beta&t=HSuBXOtKVurNWpZGJvUQF0JXY4xgpYZocILRLqE785U",
+          "viewport": "width=device-width, initial-scale=1.0",
+          "twitterDescription": "Senior Director, Global HEOR, Lymphoma Team Lead at Bristol Myers Squibb · Biopharmaceutical leader with 15+ years of industry experience and solid track record in delivering results and making impacts to business. Significant background in oncology, hematology, immunology, and cell therapy with extensive experience in health economics and outcomes studies using broad spectrum of primary and secondary data sources. \n\nEntrepreneurial, creative, decisive with outstanding interpersonal, communication and writing skills. Excel in developing and executing value-add programs that challenge the status quo. Noted for passion and technical proficiency brought to all aspects of operations and strategic leadership. Fluent in English and Chinese (Mandarin).\n\nStrong and demonstrated expertise in: \n• Product development and life cycle management (ranging from early and late phase clinical trial)\n• Registry\n• Systematic literature review and meta-analysis\n• Comparative effectiveness analysis\n• Economic modeling\n ",
+          "profileLastName": "Chen",
+          "alIosAppName": "LinkedIn",
+          "ubba": "https://static.licdn.com/aero-v1/sc/h/41b802ccd3dg7q90ypctzxybx",
+          "alIosUrl": "https://www.linkedin.com/in/joe-chen-b83a2039",
+          "ogUrl": "https://www.linkedin.com/in/joe-chen-b83a2039",
+          "alAndroidUrl": "https://www.linkedin.com/in/joe-chen-b83a2039"
+        },
+        "cseThumbnail": {
+          "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRz0IyZmxirRd4qFFAsZPjIVP0wND3FC0tid6NTe9owOVVEh8gMsS0_wNU&s",
+          "width": "200",
+          "height": "200"
+        }
+      },
+      "breadcrumbUrl": {
+        "host": "www.linkedin.com",
+        "crumbs": [
+          "..."
+        ]
+      }
+    },
+    {
+      "clicktrackUrl": "https://www.google.com/url?client=internal-element-cse&cx=000470283453218169915:hcrzdwsiwrc&q=https://www.linkedin.com/in/wang-yiwen-14725b5a&sa=U&ved=2ahUKEwiy5Z2m-cyOAxVk2jQHHfnzAZgQFnoECAUQAQ&usg=AOvVaw0qgOE0cHtmRdzJklMwz_XZ&fexp=72986053,72986052",
+      "content": "Expertise at ICP-MS and HPLC Analysis (5+ years); Strong multi-tasking… · Experience: \u003cb\u003e百时美施贵宝\u003c/b\u003e · Education: UMass Lowell · Location: Cranbury · 251&nbsp;...",
+      "contentNoFormatting": "Expertise at ICP-MS and HPLC Analysis (5+ years); Strong multi-tasking… · Experience: 百时美施贵宝 · Education: UMass Lowell · Location: Cranbury · 251 ...",
+      "title": "Wang Yiwen - \u003cb\u003e百时美施贵宝\u003c/b\u003e | LinkedIn",
+      "titleNoFormatting": "Wang Yiwen - 百时美施贵宝 | LinkedIn",
+      "formattedUrl": "https://www.linkedin.com/in/wang-yiwen-14725b5a",
+      "unescapedUrl": "https://www.linkedin.com/in/wang-yiwen-14725b5a",
+      "url": "https://www.linkedin.com/in/wang-yiwen-14725b5a",
+      "visibleUrl": "www.linkedin.com",
+      "richSnippet": {
+        "metatags": {
+          "twitterTitle": "Wang Yiwen - 百时美施贵宝 | LinkedIn",
+          "ogTitle": "Wang Yiwen - 百时美施贵宝 | LinkedIn",
+          "alAndroidPackage": "com.linkedin.android",
+          "bingbot": "nocache",
+          "locale": "en_US",
+          "platform": "https://static.licdn.com/aero-v1/sc/h/50rhhil0lpchs3iqo4twn4tk9",
+          "ogType": "profile",
+          "platformWorker": "https://static.licdn.com/aero-v1/sc/h/7nirg34a8ey4y2l4rw7xgwxx4",
+          "twitterCard": "summary",
+          "litmsprofilename": "public-profile-frontend",
+          "alAndroidAppName": "LinkedIn",
+          "twitterSite": "@Linkedin",
+          "twitterImage": "https://media.licdn.com/dms/image/v2/C5103AQElCLNdYJW5Mg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1517366458796?e=2147483647&v=beta&t=Gdj9NEbNRDiRXWkX8QCEnJM5kQkCpLI_XESdg1ATCSo",
+          "profileFirstName": "Wang",
+          "pagekey": "public_profile_v3_mobile",
+          "linkedinPagetag": "openToProvider",
+          "alIosAppStoreId": "288429040",
+          "ogDescription": "Expertise at ICP-MS and HPLC Analysis (5+ years);\nStrong multi-tasking… · Experience: 百时美施贵宝 · Education: UMass Lowell · Location: Cranbury · 251 connections on LinkedIn. View Wang Yiwen’s profile on LinkedIn, a professional community of 1 billion members.",
+          "ogImage": "https://media.licdn.com/dms/image/v2/C5103AQElCLNdYJW5Mg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1517366458796?e=2147483647&v=beta&t=Gdj9NEbNRDiRXWkX8QCEnJM5kQkCpLI_XESdg1ATCSo",
+          "viewport": "width=device-width, initial-scale=1.0",
+          "twitterDescription": "Expertise at ICP-MS and HPLC Analysis (5+ years);\nStrong multi-tasking… · Experience: 百时美施贵宝 · Education: UMass Lowell · Location: Cranbury · 251 connections on LinkedIn. View Wang Yiwen’s profile on LinkedIn, a professional community of 1 billion members.",
+          "profileLastName": "Yiwen",
+          "alIosAppName": "LinkedIn",
+          "ubba": "https://static.licdn.com/aero-v1/sc/h/41b802ccd3dg7q90ypctzxybx",
+          "alIosUrl": "https://www.linkedin.com/in/wang-yiwen-14725b5a",
+          "ogUrl": "https://www.linkedin.com/in/wang-yiwen-14725b5a",
+          "alAndroidUrl": "https://www.linkedin.com/in/wang-yiwen-14725b5a"
+        },
+        "profilepage": {}
+      },
+      "breadcrumbUrl": {
+        "host": "www.linkedin.com",
+        "crumbs": [
+          "..."
+        ]
+      }
+    },
+    {
+      "clicktrackUrl": "https://www.google.com/url?client=internal-element-cse&cx=000470283453218169915:hcrzdwsiwrc&q=https://www.linkedin.com/in/lina-fu-39b258345/zh-cn&sa=U&ved=2ahUKEwiy5Z2m-cyOAxVk2jQHHfnzAZgQFnoECAYQAQ&usg=AOvVaw2JxlHBmfVYkXPruJkGLtIj&fexp=72986053,72986052",
+      "content": "\u003cb\u003e百时美施贵宝\u003c/b\u003e- 临床研究医师· 工作经历: \u003cb\u003e百时美施贵宝\u003c/b\u003e· 地点: 纽约。在领英(一个拥有10 亿会员的职业社区) 查看付丽娜的职业档案。",
+      "contentNoFormatting": "百时美施贵宝- 临床研究医师· 工作经历: 百时美施贵宝· 地点: 纽约。在领英(一个拥有10 亿会员的职业社区) 查看付丽娜的职业档案。",
+      "title": "付丽娜- 临床研究医师- \u003cb\u003e百时美施贵宝\u003c/b\u003e| 领英",
+      "titleNoFormatting": "付丽娜- 临床研究医师- 百时美施贵宝| 领英",
+      "formattedUrl": "https://www.linkedin.com/in/lina-fu-39b258345/zh-cn",
+      "unescapedUrl": "https://www.linkedin.com/in/lina-fu-39b258345/zh-cn",
+      "url": "https://www.linkedin.com/in/lina-fu-39b258345/zh-cn",
+      "visibleUrl": "www.linkedin.com",
+      "richSnippet": {
+        "cseImage": {
+          "src": "https://media.licdn.com/dms/image/v2/D4E03AQGfrXlMbHJDEQ/profile-displayphoto-shrink_800_800/B4EZQ_dIoxHEAk-/0/1736231390103?e=2147483647&v=beta&t=ImW5bsTEA1jDM5wkVzZRnZH8-0EU9ZyR7Px6MFu-nFo"
+        },
+        "metatags": {
+          "twitterTitle": "付丽娜 - 临床研究医师 - 百时美施贵宝 | 领英",
+          "ogTitle": "付丽娜 - 临床研究医师 - 百时美施贵宝 | 领英",
+          "alAndroidPackage": "com.linkedin.android",
+          "bingbot": "nocache",
+          "locale": "zh_CN",
+          "platform": "https://static.licdn.com/aero-v1/sc/h/50rhhil0lpchs3iqo4twn4tk9",
+          "ogType": "profile",
+          "platformWorker": "https://static.licdn.com/aero-v1/sc/h/7nirg34a8ey4y2l4rw7xgwxx4",
+          "twitterCard": "summary",
+          "litmsprofilename": "public-profile-frontend",
+          "alAndroidAppName": "LinkedIn",
+          "twitterSite": "@Linkedin",
+          "twitterImage": "https://media.licdn.com/dms/image/v2/D4E03AQGfrXlMbHJDEQ/profile-displayphoto-shrink_800_800/B4EZQ_dIoxHEAk-/0/1736231390103?e=2147483647&v=beta&t=ImW5bsTEA1jDM5wkVzZRnZH8-0EU9ZyR7Px6MFu-nFo",
+          "profileFirstName": "丽娜",
+          "pagekey": "public_profile_v3_mobile",
+          "linkedinPagetag": "openToProvider",
+          "alIosAppStoreId": "288429040",
+          "ogDescription": "百时美施贵宝 - 临床研究医师 · 工作经历: 百时美施贵宝 · 地点: 纽约。在领英 (一个拥有 10 亿会员的职业社区) 查看付丽娜的职业档案。",
+          "ogImage": "https://media.licdn.com/dms/image/v2/D4E03AQGfrXlMbHJDEQ/profile-displayphoto-shrink_800_800/B4EZQ_dIoxHEAk-/0/1736231390103?e=2147483647&v=beta&t=ImW5bsTEA1jDM5wkVzZRnZH8-0EU9ZyR7Px6MFu-nFo",
+          "viewport": "width=device-width, initial-scale=1.0",
+          "twitterDescription": "百时美施贵宝 - 临床研究医师 · 工作经历: 百时美施贵宝 · 地点: 纽约。在领英 (一个拥有 10 亿会员的职业社区) 查看付丽娜的职业档案。",
+          "profileLastName": "付",
+          "alIosAppName": "LinkedIn",
+          "ubba": "https://static.licdn.com/aero-v1/sc/h/41b802ccd3dg7q90ypctzxybx",
+          "alIosUrl": "https://www.linkedin.com/in/lina-fu-39b258345/zh-cn",
+          "ogUrl": "https://www.linkedin.com/in/lina-fu-39b258345/zh-cn",
+          "alAndroidUrl": "https://www.linkedin.com/in/lina-fu-39b258345/zh-cn"
+        },
+        "cseThumbnail": {
+          "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjGcOFKHFyV19XL5bjOAxficgWfSDCfCv6FB7Yq3fcp_Xh7WmslpSq&s",
+          "width": "96",
+          "height": "96"
+        }
+      },
+      "breadcrumbUrl": {
+        "host": "www.linkedin.com",
+        "crumbs": [
+          "zh-cn"
+        ]
+      }
+    }
+  ],
+  "findMoreOnGoogle": {
+    "url": "https://www.google.com/search?client=ms-google-coop&q=%E7%99%BE%E6%97%B6%E7%BE%8E%E6%96%BD%E8%B4%B5%E5%AE%9D&cx=000470283453218169915:hcrzdwsiwrc"
+  }
+});
