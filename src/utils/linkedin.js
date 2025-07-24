@@ -25,20 +25,18 @@ async function extractLinkedinResultsFromTxt(filePath) {
             // 移除包裹JSON的函数调用（如google.search.cse.api19417(...)）
             .replace(/^[^\{]+/, '') // 移除开头到第一个{之前的内容
             .replace(/\)[^\}]*$/, ''); // 移除最后一个}之后的内容
-        console.log(cleanedContent);
         // 3. 尝试解析JSON
         const parsedData = JSON.parse(cleanedContent);
         
         // 4. 提取results数组（容错处理）
         if (parsedData && Array.isArray(parsedData.results)) {
-            console.log(`成功提取到results数组，共${parsedData.results.length}条数据`);
             return parsedData.results;
         } else {
-            console.warn('文件中未找到有效的results数组');
+            console.warn(`${filePath}文件中未找到有效的results数组`);
             return [];
         }
     } catch (error) {
-        console.error('提取results失败:', error.message);
+        console.error(`${filePath}提取results失败:`, error.message);
         // 详细错误排查信息
         if (error.name === 'SyntaxError') {
             console.error('JSON解析错误，可能是格式清理不彻底');
